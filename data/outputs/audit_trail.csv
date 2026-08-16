@@ -1,0 +1,3 @@
+subsystem,window_start,window_end,reconciled_state,winning_event_id,winning_source,rule_applied,reasoning,competing_events
+HVAC,2026-08-16T08:00:00+00:00,2026-08-16T09:00:00+00:00,Critical,EVT-002,IoT,Tie-Break: IoT Telemetry Peak Reading,Multiple IoT sensor readings detected. Selected event EVT-002 representing peak sensor severity/value.,"EVT-001, EVT-002, EVT-003"
+HVAC,2026-08-16T10:00:00+00:00,2026-08-16T11:00:00+00:00,In-Maintenance,EVT-008,Contractor,Source Priority (Contractor > Manual),Selected event EVT-008 based on superior source authority.,"EVT-008, EVT-009"

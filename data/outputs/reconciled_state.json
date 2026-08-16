@@ -1,0 +1,22 @@
+{
+  "HVAC": [
+    {
+      "subsystem": "HVAC",
+      "timestamp": "2026-08-16T08:10:00+00:00",
+      "state": "Critical",
+      "severity": "High",
+      "controlling_source": "IoT",
+      "controlling_event_id": "EVT-002",
+      "work_order_id": null
+    },
+    {
+      "subsystem": "HVAC",
+      "timestamp": "2026-08-16T10:00:00+00:00",
+      "state": "In-Maintenance",
+      "severity": "Medium",
+      "controlling_source": "Contractor",
+      "controlling_event_id": "EVT-008",
+      "work_order_id": "WO-9901"
+    }
+  ]
+}

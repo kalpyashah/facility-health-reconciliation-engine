@@ -1,0 +1,11 @@
+event_id,event_type,source,timestamp,subsystem,status,severity,user_id,work_order_id,device_id,value
+EVT-001,IoT,IoT,2026-08-16T08:00:00Z,HVAC,Normal,Low,,,IOT-HVAC-01,22.1
+EVT-002,IoT,IoT,2026-08-16T08:10:00Z,HVAC,Critical,High,,,IOT-HVAC-01,38.5
+EVT-003,IoT,IoT,2026-08-16T08:15:00Z,HVAC,Normal,Low,,,IOT-HVAC-01,22.8
+EVT-004,Manual,Manual,2026-08-16T08:30:00Z,Plumbing,Warning,Medium,USR-101,,,
+EVT-005,Manual,Manual,2026-08-16T08:30:00Z,Plumbing,Critical,High,USR-102,,,
+EVT-006,Manual,Manual,2026-08-16T09:00:00Z,Electrical,Warning,Medium,USR-103,,,
+EVT-007,Contractor,Contractor,2026-08-16T08:45:00Z,Electrical,Normal,Low,,WO-8812,,
+EVT-008,Contractor,Contractor,2026-08-16T10:00:00Z,HVAC,In-Maintenance,Medium,,WO-9901,,
+EVT-009,Manual,Manual,2026-08-16T10:15:00Z,HVAC,Warning,High,USR-104,,,
+EVT-010,IoT,IoT,2026-08-16T11:00:00Z,,Normal,Low,,,IOT-BAD-01,0

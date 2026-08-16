@@ -1,0 +1,40 @@
+2026-08-16 09:38:14,718 - WARNING - Row 3 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: PLUMBING [type=value_error, input_value='Plumbing', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:14,724 - WARNING - Row 4 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: PLUMBING [type=value_error, input_value='Plumbing', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:14,726 - WARNING - Row 5 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: ELECTRICAL [type=value_error, input_value='Electrical', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:14,732 - WARNING - Row 6 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: ELECTRICAL [type=value_error, input_value='Electrical', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:14,740 - WARNING - Row 9 skipped: 1 validation error for RawEvent
+subsystem
+  Field required [type=missing, input_value={'event_id': 'EVT-010', '...T-BAD-01', 'value': 0.0}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-08-16 09:38:17,717 - WARNING - Row 3 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: PLUMBING [type=value_error, input_value='Plumbing', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:17,720 - WARNING - Row 4 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: PLUMBING [type=value_error, input_value='Plumbing', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:17,724 - WARNING - Row 5 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: ELECTRICAL [type=value_error, input_value='Electrical', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:17,727 - WARNING - Row 6 skipped: 1 validation error for RawEvent
+subsystem
+  Value error, Unknown subsystem: ELECTRICAL [type=value_error, input_value='Electrical', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/value_error
+2026-08-16 09:38:17,752 - WARNING - Row 9 skipped: 1 validation error for RawEvent
+subsystem
+  Field required [type=missing, input_value={'event_id': 'EVT-010', '...T-BAD-01', 'value': 0.0}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
